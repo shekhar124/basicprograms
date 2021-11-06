@@ -1,0 +1,11 @@
+package com.bl;
+
+import java.util.Scanner;
+
+public class DummyClass {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int[]=
+	}
+}
