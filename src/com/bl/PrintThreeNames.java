@@ -1,8 +1,8 @@
 package com.bl;
 
-public class DummyClass {
+public class PrintThreeNames {
+
 	public static void main(String[] args) {
-		
 		
 
 	}
